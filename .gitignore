@@ -1,0 +1,5 @@
+.venv
+.archive
+*.pyc
+
+src/data/MNIST
