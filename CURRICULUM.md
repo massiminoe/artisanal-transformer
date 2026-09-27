@@ -210,15 +210,3 @@ Not part of the core path, but where this leads:
 - Scaling the decoder-only LM on a larger corpus; sampling strategies (top-k, top-p).
 
 ---
-
-## Personal log
-
-Keep a running note per stage: what broke, the bug, and the fix. The bug list is the real
-learning artifact.
-
-- **Stage 0:**
-- **Stage 1:**
-- **Stage 2:**
-- **Stage 3:**
-- **Stage 4:**
-- **Stage 5:**

@@ -1,12 +1,9 @@
 # llm-study
 
-Self-study, from PyTorch fundamentals up to a from-scratch implementation of the 2017
-Transformer ("Attention Is All You Need"), with all modules eventually written by hand.
+This is a self-study project to get a deeper appreciation of the transformer
+as well as some Pytorch revision. The culmination is `src/stage_5b.ipynb` in which
+I build my own artisanal transformer module, a la Karpathy's classic [blog post](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
-See **[CURRICULUM.md](CURRICULUM.md)** for the full plan — six stages, each with toy problems,
-dataset specs, a checklist, and success criteria.
-
-**Ground rules:** I write all the code myself (harness, models, datasets). The curriculum is
-spec only.
-
-**Environment:** Apple M4 Pro, MPS backend. PyTorch.
+I've written just about every line myself for pedagocical reasons (is there any other reason now?).
+Codex and Claude have been present as tutors and also mapped out the curriculum with me. This was
+an earnest, and I think successful, attempt to learn with support from AI.
